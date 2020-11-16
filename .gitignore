@@ -1,0 +1,9 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+# git init
+# git remote add origin --repo-ssh-link 
+# git add .
+# git commit -m "comment"
+# git push origin master
+/node_modules
